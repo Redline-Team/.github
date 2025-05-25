@@ -1,5 +1,7 @@
 <div align='center'>  
 
+<img src="Redline Logo.png" width="100" alt="Redline Package Manager">
+
 # The Redline Team  
 ## VRChat Creators and Developers  
 [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro)

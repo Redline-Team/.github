@@ -10,3 +10,8 @@
 [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro)
 [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro)
 [![NewGenKillers.lol](https://uptime.betterstack.com/status-badges/v3/monitor/1pt55.svg)](https://status.arch-linux.pro)
+
+
+# DOMAIN DOWNTIME  
+Due to my main method of payment expiring the day before the renewal of arch-linux.pro it is currently offline  
+This will be fixed as soon as my new payment method is working  
